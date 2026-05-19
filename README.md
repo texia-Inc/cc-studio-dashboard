@@ -4,6 +4,16 @@ Web dashboard for [cc-studio](https://github.com/texia-Inc/cc-studio) — the in
 
 ブラウザで自分のスタジオを俯瞰したり、GitHubやローカルのリポジトリを**捜索して一括インポート**できます。
 
+## スクリーンショット
+
+> 画像は `docs/screenshots/` に配置すると README から参照できます。
+> `npx cc-studio-dashboard` でブラウザを開いて、Portfolio タブと Scan & Import タブを撮影してください。
+
+<!--
+![Portfolio タブ](docs/screenshots/portfolio.png)
+![Scan & Import タブ](docs/screenshots/scan.png)
+-->
+
 ## できること
 
 ### Portfolio タブ
